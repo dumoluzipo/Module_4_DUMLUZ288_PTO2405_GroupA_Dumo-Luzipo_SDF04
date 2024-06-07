@@ -38,3 +38,24 @@ Embark on this CSS journey to transform simple buttons into interactive, animate
 - Submit the link to your GitHub repository on the LMS under the SDF04 project tab.
 
 Embark on this CSS journey to transform simple buttons into interactive, animated elements. Let your creativity shine and enjoy the process of bringing static elements to life!
+# Button Customization Challenges
+
+During the process of customizing buttons, I encountered several challenges:
+
+1. **Animation Selection:** I struggled with determining the type of animation that would best suit my buttons.
+   
+2. **Gradient Button (Button 2):** Achieving the desired color flipping effect for the gradient button was particularly challenging.
+
+3. **Ripple Effect (Button 3):** I faced difficulty in deciding between a square and oval ripple effect for the third button.
+
+4. **Border Thickness:** The border thickness didn't appear as I intended.
+
+5. **Theme:** Although I aimed for a blue-grey color theme, I found it challenging to achieve the exact look I desired.
+
+## Proud Moments
+
+Despite the challenges, I'm proud of what I accomplished:
+
+- **Styling:** While there's room for improvement, I'm satisfied with the styling, especially with my commitment to the chosen color scheme.
+
+- **Ripple Effect and Gradient Flip:** I'm particularly happy with successfully implementing the ripple effect and achieving the gradient color flip.
